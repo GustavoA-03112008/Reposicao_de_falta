@@ -38,9 +38,6 @@ function App() {
       </Routes>
 
       {/*
-      =========================
-      EXERCÍCIOS ANTIGOS
-      =========================
 
       <Aluno />
       <Produto />
