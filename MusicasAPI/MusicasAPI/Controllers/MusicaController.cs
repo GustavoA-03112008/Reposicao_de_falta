@@ -49,7 +49,7 @@ namespace MusicasAPI.Controllers
         public async Task<IActionResult> Put(Guid id, [FromBody] MusicaDTO dto)
         {
             if (!ModelState.IsValid)
-                return BadRequest("Nome e Artista são obrigatórios.");
+                return BadRequest("Nome e Artista são obrigatórios");
 
             var atualizado = await _repository.Atualizar(id, dto);
 
