@@ -1,0 +1,15 @@
+CREATE DATABASE MusicasDB;
+GO
+
+USE MusicasDB;
+GO
+
+
+
+CREATE TABLE Musica
+(
+    IdMusica UNIQUEIDENTIFIER PRIMARY KEY,
+    Nome VARCHAR(100) NOT NULL,
+    Artista VARCHAR(100) NOT NULL
+);
+GO
