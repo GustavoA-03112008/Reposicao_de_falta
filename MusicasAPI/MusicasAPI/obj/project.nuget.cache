@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ypvIcClY4Y=",
+  "dgSpecHash": "VZ1yGJ0/HLY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\MusicasAPI.csproj",
+  "projectFilePath": "C:\\Users\\57485910817\\Desktop\\Reposicao_de_falta\\MusicasAPI\\MusicasAPI\\MusicasAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\57485910817\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\57485910817\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

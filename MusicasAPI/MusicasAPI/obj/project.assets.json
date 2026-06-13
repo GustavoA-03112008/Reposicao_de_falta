@@ -3695,11 +3695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\MusicasAPI.csproj",
+      "projectUniqueName": "C:\\Users\\57485910817\\Desktop\\Reposicao_de_falta\\MusicasAPI\\MusicasAPI\\MusicasAPI.csproj",
       "projectName": "MusicasAPI",
-      "projectPath": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\MusicasAPI.csproj",
+      "projectPath": "C:\\Users\\57485910817\\Desktop\\Reposicao_de_falta\\MusicasAPI\\MusicasAPI\\MusicasAPI.csproj",
       "packagesPath": "C:\\Users\\57485910817\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\obj\\",
+      "outputPath": "C:\\Users\\57485910817\\Desktop\\Reposicao_de_falta\\MusicasAPI\\MusicasAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

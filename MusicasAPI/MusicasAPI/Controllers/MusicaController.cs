@@ -16,7 +16,6 @@ namespace MusicasAPI.Controllers
             _repository = repository;
         }
 
-        // GET: api/musica
         [HttpGet]
         public async Task<IActionResult> Get()
         {
@@ -24,7 +23,6 @@ namespace MusicasAPI.Controllers
             return Ok(musicas);
         }
 
-        // GET: api/musica/{id}
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(Guid id)
         {
@@ -36,7 +34,6 @@ namespace MusicasAPI.Controllers
             return Ok(musica);
         }
 
-        // POST: api/musica
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] MusicaDTO dto)
         {
@@ -48,7 +45,6 @@ namespace MusicasAPI.Controllers
             return CreatedAtAction(nameof(GetById), new { id = musica.IdMusica }, musica);
         }
 
-        // PUT: api/musica/{id}
         [HttpPut("{id}")]
         public async Task<IActionResult> Put(Guid id, [FromBody] MusicaDTO dto)
         {
@@ -63,7 +59,6 @@ namespace MusicasAPI.Controllers
             return NoContent();
         }
 
-        // DELETE: api/musica/{id}
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(Guid id)
         {
