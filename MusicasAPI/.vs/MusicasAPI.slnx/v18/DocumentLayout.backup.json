@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|c:\\users\\57485910817\\source\\repos\\musicasapi\\musicasapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|solutionrelative:musicasapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|c:\\users\\57485910817\\source\\repos\\musicasapi\\musicasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|solutionrelative:musicasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|c:\\users\\57485910817\\source\\repos\\musicasapi\\musicasapi\\musicasapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|solutionrelative:musicasapi\\musicasapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|c:\\users\\57485910817\\source\\repos\\musicasapi\\musicasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|solutionrelative:musicasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|c:\\users\\57485910817\\source\\repos\\musicasapi\\musicasapi\\repositories\\musicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|solutionrelative:musicasapi\\repositories\\musicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|c:\\users\\57485910817\\source\\repos\\musicasapi\\musicasapi\\musicasapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|solutionrelative:musicasapi\\musicasapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|c:\\users\\57485910817\\source\\repos\\musicasapi\\musicasapi\\controllers\\musicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|solutionrelative:musicasapi\\controllers\\musicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|c:\\users\\57485910817\\source\\repos\\musicasapi\\musicasapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|solutionrelative:musicasapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|c:\\users\\57485910817\\source\\repos\\musicasapi\\musicasapi\\interfaces\\imusicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|solutionrelative:musicasapi\\interfaces\\imusicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|c:\\users\\57485910817\\source\\repos\\musicasapi\\musicasapi\\dto\\musicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|solutionrelative:musicasapi\\dto\\musicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|c:\\users\\57485910817\\source\\repos\\musicasapi\\musicasapi\\models\\musicasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|solutionrelative:musicasapi\\models\\musicasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|c:\\users\\57485910817\\source\\repos\\musicasapi\\musicasapi\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C46994-5903-A934-55C1-360CAB2A6BE7}|MusicasAPI\\MusicasAPI.csproj|solutionrelative:musicasapi\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MusicasAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MusicasAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T14:26:34.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicasAPI",
+              "DocumentMoniker": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\MusicasAPI.csproj",
+              "RelativeDocumentMoniker": "MusicasAPI\\MusicasAPI.csproj",
+              "ToolTip": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\MusicasAPI.csproj",
+              "RelativeToolTip": "MusicasAPI\\MusicasAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T14:24:00.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MusicasAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MusicasAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T13:48:10.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Repositories\\MusicaRepository.cs",
+              "RelativeDocumentMoniker": "MusicasAPI\\Repositories\\MusicaRepository.cs",
+              "ToolTip": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Repositories\\MusicaRepository.cs",
+              "RelativeToolTip": "MusicasAPI\\Repositories\\MusicaRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T13:46:49.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMusicaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Interfaces\\IMusicaRepository.cs",
+              "RelativeDocumentMoniker": "MusicasAPI\\Interfaces\\IMusicaRepository.cs",
+              "ToolTip": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Interfaces\\IMusicaRepository.cs",
+              "RelativeToolTip": "MusicasAPI\\Interfaces\\IMusicaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T13:43:38.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MusicaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\DTO\\MusicaDTO.cs",
+              "RelativeDocumentMoniker": "MusicasAPI\\DTO\\MusicaDTO.cs",
+              "ToolTip": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\DTO\\MusicaDTO.cs",
+              "RelativeToolTip": "MusicasAPI\\DTO\\MusicaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T13:39:09.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusicasAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\MusicasAPI.csproj",
+              "RelativeDocumentMoniker": "MusicasAPI\\MusicasAPI.csproj",
+              "ToolTip": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\MusicasAPI.csproj",
+              "RelativeToolTip": "MusicasAPI\\MusicasAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T13:37:22.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MusicasAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\appsettings.json",
+              "RelativeToolTip": "MusicasAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T13:05:45.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MusicasAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Program.cs",
+              "RelativeToolTip": "MusicasAPI\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T13:50:10.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicaController.cs",
+              "DocumentMoniker": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Controllers\\MusicaController.cs",
+              "RelativeDocumentMoniker": "MusicasAPI\\Controllers\\MusicaController.cs",
+              "ToolTip": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Controllers\\MusicaController.cs",
+              "RelativeToolTip": "MusicasAPI\\Controllers\\MusicaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T13:48:35.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Models\\Musica.cs",
+              "RelativeDocumentMoniker": "MusicasAPI\\Models\\Musica.cs",
+              "ToolTip": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Models\\Musica.cs",
+              "RelativeToolTip": "MusicasAPI\\Models\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T13:35:51.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MusicasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Models\\MusicasDbContext.cs",
+              "RelativeDocumentMoniker": "MusicasAPI\\Models\\MusicasDbContext.cs",
+              "ToolTip": "C:\\Users\\57485910817\\source\\repos\\MusicasAPI\\MusicasAPI\\Models\\MusicasDbContext.cs",
+              "RelativeToolTip": "MusicasAPI\\Models\\MusicasDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T13:35:25.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
